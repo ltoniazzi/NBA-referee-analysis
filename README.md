@@ -9,7 +9,7 @@ This notebook contains an analysis of referees' effectiveness in the last 2 minu
 In your terminal, use `git` to clone the repository locally.
 
 ```bash
-git clone https:....
+git clone https://github.com/necbal/NBA-referee-analysis.git
 ```
 
 ## 2. Download Anaconda
