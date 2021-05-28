@@ -1,5 +1,5 @@
 # NBA-referee-analysis
-Bayesian hierarchical toy models to study referees effectiveness in the last 2 minutes of the game. 
+This notebook contains an analysis of referees' effectiveness in the last 2 minutes of an NBA the game. The analysis is based on Bayesian hierarchical models, performed with [PyMC3](https://docs.pymc.io/).
 
 
 
