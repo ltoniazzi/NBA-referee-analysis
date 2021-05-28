@@ -3,7 +3,7 @@ Bayesian hierarchical toy models to study referees effectiveness in the last 2 m
 
 
 
-# How to easily use this notebook
+## How to easily use this notebook
 ## 1. Clone the repository locally
 
 In your terminal, use `git` to clone the repository locally.
@@ -48,6 +48,6 @@ conda env update -f environment.yml
 
 
 
-### 4 Open your Jupyter notebook in Jupyter Lab!
+### 4 Open your Jupyter notebook in Jupyter Lab
 
 In the terminal, execute `jupyter lab`.
