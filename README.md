@@ -1,15 +1,15 @@
 # NBA-referee-analysis
-Bayesian hierarchical toy models to study referees effectiveness in the last 2 minutes of the game. 
+This notebook contains an analysis of referees' effectiveness in the last 2 minutes of an NBA the game. The analysis is based on Bayesian hierarchical models, performed with [PyMC3](https://docs.pymc.io/).
 
 
 
-# How to easily use this notebook
+## How to easily use this notebook
 ## 1. Clone the repository locally
 
 In your terminal, use `git` to clone the repository locally.
 
 ```bash
-git clone https:....
+git clone https://github.com/necbal/NBA-referee-analysis.git
 ```
 
 ## 2. Download Anaconda
@@ -48,6 +48,6 @@ conda env update -f environment.yml
 
 
 
-### 4 Open your Jupyter notebook in Jupyter Lab!
+### 4 Open your Jupyter notebook in Jupyter Lab
 
 In the terminal, execute `jupyter lab`.
