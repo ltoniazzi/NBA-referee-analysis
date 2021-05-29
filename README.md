@@ -3,8 +3,8 @@ This notebook contains an analysis of referees' effectiveness in the last 2 minu
 
 
 
-## How to easily use this notebook
-## 1. Clone the repository locally
+### How to easily use this notebook
+### 1. Clone the repository locally
 
 In your terminal, use `git` to clone the repository locally.
 
@@ -12,11 +12,11 @@ In your terminal, use `git` to clone the repository locally.
 git clone https://github.com/necbal/NBA-referee-analysis.git
 ```
 
-## 2. Download Anaconda
+### 2. Download Anaconda
 
 Download the [Anaconda distribution](https://www.anaconda.com/download/) of Python 3.
 
-## 3. Set up your environment
+### 3. Set up your environment
 
 If this is the first time you're setting up your compute environment,
 use the `conda` package manager
